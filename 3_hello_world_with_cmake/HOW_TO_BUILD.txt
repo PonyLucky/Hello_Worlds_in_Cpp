@@ -1,0 +1,5 @@
+https://rvarago.medium.com/introduction-to-cmake-for-cpp-4c464272a239
+
+1. Open a terminal window into the "build" directory.
+2. Write "cmake ..".
+3. Write "make".

@@ -1,0 +1,8 @@
+# Hello Worlds in C++
+This repo shows different ways of doing a Hello World. Doing so with good practices in mind.
+
+## Information
+I develop with Linux so in each project, the output files are without extensions. The executables of Windows are `.EXE` and Linux are `.` (with no extension)
+
+## 1) Hello World
+This is a casual hello world with only one source file.
