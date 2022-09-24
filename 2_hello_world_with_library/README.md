@@ -25,7 +25,7 @@ So basically calling a H file instead of directly the CPP one permits stability 
 ## class/pause.cpp
 The script ask for its structure from the header file.
 
-Then following the structure of the header we define the namespace and the function. By the way in the specific case where a library don't many have functions, instead of doing:
+Then following the structure of the header we define the namespace and the function. By the way in the specific case where a library don't have many functions, instead of doing:
 ```cpp
 namespace ps
 {
