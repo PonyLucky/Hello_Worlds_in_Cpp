@@ -1,5 +1,5 @@
 # Hello Worlds in C++
-The goal of this repoo is to provide different ways of writing hello worlds in C++ to showcase the acceptable structures for C++ projects along some tips to gain good practices.
+The goal of this repository is to provide different ways of writing hello worlds in C++ to showcase the acceptable structures for C++ projects along some tips to gain good practices.
 
 ## General Information
 Executables files with Windows are `.EXE` and those of Linux are `.` (no extension).
